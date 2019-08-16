@@ -8,3 +8,6 @@ reset commit
 
 New feature branch
 edited in feature
+
+
+Adding equal files to 2 branches
