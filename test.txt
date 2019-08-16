@@ -5,8 +5,4 @@ new song
 git GUI
 wow
 reset commit
-1
-2
-3
-root of 5
 
